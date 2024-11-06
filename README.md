@@ -1,6 +1,6 @@
-Hi there, I'm Pot 👋
+Hi there, I'm ian 👋
 
-I'm Ian Fritz Oligue Placer, but you can call me Pot! I'm a passionate student and a tech enthusiast based in San Jose del Monte, Philippines. Currently, I’m studying at Colegio de San Gabriel Archangel, exploring the vast world of programming and diving into the wonders of cloud-based solutions for deploying machine learning models. Here’s a bit more about me:
+I'm Ian Fritz Oligue Placer, but you can call me ian! I'm a passionate student and a tech enthusiast based in San Jose del Monte, Philippines. Currently, I’m studying at Colegio de San Gabriel Archangel, exploring the vast world of programming and diving into the wonders of cloud-based solutions for deploying machine learning models. Here’s a bit more about me:
 
 🌱 What I’m Learning
 
