@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi there, I'm Pot 👋
 
-<!--
-**iyang1016/iyang1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ian Fritz Oligue Placer, but you can call me Pot! I'm a passionate student and a tech enthusiast based in San Jose del Monte, Philippines. Currently, I’m studying at Colegio de San Gabriel Archangel, exploring the vast world of programming and diving into the wonders of cloud-based solutions for deploying machine learning models. Here’s a bit more about me:
 
-Here are some ideas to get you started:
+🌱 What I’m Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 SQL: Mastering data management and querying skills.
+
+🤖 AI & LLM: Exploring cloud solutions for deploying large language models with limited resources.
+
+🧑‍💻 Frontend Web Development: Building responsive and dynamic interfaces using HTML, CSS, and JavaScript.
+
+
+🐱 Meet My Furry Friends
+
+Monining and Ningning (cats)
+
+Panot (my chicken buddy)
+
+
+🎧 Interests
+
+Earphones: Currently eyeing KZ earphones for that quality sound experience.
+
+Tech tools: Exploring new tools and tech that make life easier.
+
+Gaming and Music: Relaxing with a mix of tunes and games.
+
+
+📬 Contact Me
+
+Email: ianplacer711@gmail.com
+
+
+📈 GitHub Stats
+
+
+
+Feel free to connect, collaborate, or just say hi! 😊
